@@ -26,16 +26,16 @@ const data = {
         { name: "Mora", count: 4957500, img: "https://paimon.moe/images/items/mora.png" }
     ],
     "Signature Weapon\u30fbWhitelake Frostfeather": [
-        { name: "Measured Pour of the Cellared Spiritual Nectar", count: 5, description: "Scars of Cursed Obsession Domain", img: "https://static.wikia.nocookie.net/gensin-impact/images/6/60/Item_Measured_Pour_of_the_Cellared_Spiritual_Nectar.png/revision/latest?cb=20260812041930" },
-        { name: "Intoxication of the Cellared Spiritual Nectar", count: 14, description: "Scars of Cursed Obsession Domain", img: "https://static.wikia.nocookie.net/gensin-impact/images/c/c9/Item_Intoxication_of_the_Cellared_Spiritual_Nectar.png/revision/latest?cb=20260812041932" },
-        { name: "Exhilaration of the Cellared Spiritual Nectar", count: 14, description: "Scars of Cursed Obsession Domain", img: "https://static.wikia.nocookie.net/gensin-impact/images/c/c5/Item_Exhilaration_of_the_Cellared_Spiritual_Nectar.png/revision/latest?cb=20260812041935" },
-        { name: "Revelry of the Cellared Spiritual Nectar", count: 6, description: "Scars of Cursed Obsession Domain", img: "https://static.wikia.nocookie.net/gensin-impact/images/0/0a/Item_Revelry_of_the_Cellared_Spiritual_Nectar.png/revision/latest?cb=20260812041937" },
-        { name: "Hollow Root of Life", count: 23, description: "Juvenile Tree Segment / Rugged Elder Leshy", img: "https://static.wikia.nocookie.net/gensin-impact/images/c/c1/Item_Hollow_Root_of_Life.png/revision/latest?cb=20260812115256" },
-        { name: "Sprout Node of Life", count: 27, description: "Juvenile Tree Segment / Rugged Elder Leshy", img: "https://static.wikia.nocookie.net/gensin-impact/images/3/3f/Item_Sprout_Node_of_Life.png/revision/latest?cb=20260812115306" },
-        { name: "Coiled Core of Life", count: 41, description: "Juvenile Tree Segment / Rugged Elder Leshy", img: "https://static.wikia.nocookie.net/gensin-impact/images/4/42/Item_Coiled_Core_of_Life.png/revision/latest?cb=20260812115245" },
-        { name: "Chimeric Core", count: 27, img: "https://static.wikia.nocookie.net/gensin-impact/images/f/f1/Item_Chimeric_Core.png/revision/latest?cb=20260812042025" },
-        { name: "Chimeric Nucleus", count: 23, img: "https://static.wikia.nocookie.net/gensin-impact/images/f/fa/Item_Symbiotic_Chimeric_Nucleus.png/revision/latest?cb=20260812041907" },
-        { name: "Chimeric Nexus", count: 15, img: "https://static.wikia.nocookie.net/gensin-impact/images/c/c3/Item_Prime_Chimeric_Nexus.png/revision/latest?cb=20260812041910" },
+        { name: "Measured Pour of the Cellared Spiritual Nectar", count: 5, description: "Scars of Cursed Obsession Domain", img: "https://static.wikia.nocookie.net/gensin-impact/images/6/60/Item_Measured_Pour_of_the_Cellared_Spiritual_Nectar.png" },
+        { name: "Intoxication of the Cellared Spiritual Nectar", count: 14, description: "Scars of Cursed Obsession Domain", img: "https://static.wikia.nocookie.net/gensin-impact/images/c/c9/Item_Intoxication_of_the_Cellared_Spiritual_Nectar.png" },
+        { name: "Exhilaration of the Cellared Spiritual Nectar", count: 14, description: "Scars of Cursed Obsession Domain", img: "https://static.wikia.nocookie.net/gensin-impact/images/c/c5/Item_Exhilaration_of_the_Cellared_Spiritual_Nectar.png" },
+        { name: "Revelry of the Cellared Spiritual Nectar", count: 6, description: "Scars of Cursed Obsession Domain", img: "https://static.wikia.nocookie.net/gensin-impact/images/0/0a/Item_Revelry_of_the_Cellared_Spiritual_Nectar.png" },
+        { name: "Hollow Root of Life", count: 23, description: "Juvenile Tree Segment / Rugged Elder Leshy", img: "https://static.wikia.nocookie.net/gensin-impact/images/c/c1/Item_Hollow_Root_of_Life.png" },
+        { name: "Sprout Node of Life", count: 27, description: "Juvenile Tree Segment / Rugged Elder Leshy", img: "https://static.wikia.nocookie.net/gensin-impact/images/3/3f/Item_Sprout_Node_of_Life.png" },
+        { name: "Coiled Core of Life", count: 41, description: "Juvenile Tree Segment / Rugged Elder Leshy", img: "https://static.wikia.nocookie.net/gensin-impact/images/4/42/Item_Coiled_Core_of_Life.png" },
+        { name: "Chimeric Core", count: 27, img: "https://static.wikia.nocookie.net/gensin-impact/images/f/f1/Item_Chimeric_Core.png" },
+        { name: "Chimeric Nucleus", count: 23, img: "https://static.wikia.nocookie.net/gensin-impact/images/f/fa/Item_Symbiotic_Chimeric_Nucleus.png" },
+        { name: "Chimeric Nexus", count: 15, img: "https://static.wikia.nocookie.net/gensin-impact/images/c/c3/Item_Prime_Chimeric_Nexus.png" },
         { name: "Mystic Enhancement Ore", count: 709, img: "https://paimon.moe/images/items/mystic_enhancement_ore.png" },
         { name: "Mora", count: 753000, img: "https://paimon.moe/images/items/mora.png" }
     ]
