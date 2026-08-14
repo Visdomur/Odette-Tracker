@@ -232,7 +232,7 @@ document.getElementById('saveBtn').addEventListener('click', () => {
             height: 720
         }).then(canvas => {
             const link = document.createElement('a');
-            link.download = 'Columbina_Card.png';
+            link.download = 'Odette Progress Report.png';
             link.href = canvas.toDataURL('image/png');
             link.click();
             btn.innerText = originalText;
