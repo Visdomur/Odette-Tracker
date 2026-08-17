@@ -15,9 +15,9 @@ const data = {
         { name: "Mora", count: 2092400, img: "https://paimon.moe/images/items/mora.png" }
     ],
     "Talents": [
-        { name: "Teachings of Charity", count: 9, img: "https://paimon.moe/images/items/teachings_of_charity.png" },
-        { name: "Guide to Charity", count: 63, img: "https://paimon.moe/images/items/guide_to_charity.png" },
-        { name: "Philosophies of Charity", count: 114, img: "https://paimon.moe/images/items/philosophies_of_charity.png" },
+        { name: "Teachings of Charity", count: 9, description: "Relics of the Fallen Grace Domain", img: "https://paimon.moe/images/items/teachings_of_charity.png" },
+        { name: "Guide to Charity", count: 63, description: "Relics of the Fallen Grace Domain", img: "https://paimon.moe/images/items/guide_to_charity.png" },
+        { name: "Philosophies of Charity", count: 114, description: "Relics of the Fallen Grace Domain", img: "https://paimon.moe/images/items/philosophies_of_charity.png" },
         { name: "Crown of Insight", count: 3, img: "https://paimon.moe/images/items/crown_of_insight.png" },
         { name: "Twisted Withered Branch", count: 18, description: "Exalted Master of the Heretical Path - Dottore II", img: "https://paimon.moe/images/items/twisted_withered_branch.png" },
         { name: "Ethereal Glimmershard", count: 18, description: "Fae of Crystalline Flesh", img: "https://paimon.moe/images/items/ethereal_glimmershard.png" },
