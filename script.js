@@ -42,7 +42,7 @@ const data = {
 };
 
 const restrictedItems = ["Frostfairy Flowers", "Twisted Withered Branch", "Exalted Master of the Heretical Path (Dottore II)"];
-const PREFIX = "columbina_tracker_final_v5_";
+const PREFIX = "Odette-Preparation-Tracker";
 const app = document.getElementById('app');
 const statusEl = document.getElementById('save-status');
 const exportGrid = document.getElementById('export-grid');
