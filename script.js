@@ -41,7 +41,7 @@ const data = {
     ]
 };
 
-const restrictedItems = ["Frostfairy Flowers", "Twisted Withered Branch", "Exalted Master of the Heretical Path (Dottore II)"];
+const restrictedItems = [];
 const PREFIX = "Odette-Preparation-Tracker";
 const app = document.getElementById('app');
 const statusEl = document.getElementById('save-status');
